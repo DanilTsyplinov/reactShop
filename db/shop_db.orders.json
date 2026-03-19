@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "6856c7d2e42f036e48fc0d16"
+  },
+  "login": "cajka",
+  "productIds": [
+    "product_67825262adde06a22aa513a8",
+    "product_678252d8adde06a22aa513aa"
+  ],
+  "totalPrice": 1203,
+  "createdAt": {
+    "$date": "2025-06-21T14:55:14.956Z"
+  },
+  "status": "Оформлен",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6856d2449084ee752a390569"
+  },
+  "login": "cajka",
+  "productIds": [
+    "product_67825262adde06a22aa513a8",
+    "product_678252d8adde06a22aa513aa",
+    "product_6782533aadde06a22aa513ac"
+  ],
+  "totalPrice": 1563,
+  "createdAt": {
+    "$date": "2025-06-21T15:39:48.626Z"
+  },
+  "status": "Оформлен",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6856e67940b0041dc71b5983"
+  },
+  "login": "Larisa",
+  "productIds": [
+    "product_67825262adde06a22aa513a8",
+    "product_67825396adde06a22aa513ae"
+  ],
+  "totalPrice": 1328,
+  "createdAt": {
+    "$date": "2025-06-21T17:06:01.982Z"
+  },
+  "status": "Оформлен",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "685797aad593c050433273d4"
+  },
+  "login": "Lara",
+  "productIds": [
+    "product_67825262adde06a22aa513a8",
+    "product_67825396adde06a22aa513ae"
+  ],
+  "totalPrice": 1328,
+  "createdAt": {
+    "$date": "2025-06-22T05:42:02.860Z"
+  },
+  "status": "Оформлен",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69bba73f5aca3d13b544e9bb"
+  },
+  "login": "Admin",
+  "productIds": [
+    "product_678252d8adde06a22aa513aa"
+  ],
+  "totalPrice": 1199000,
+  "createdAt": {
+    "$date": "2026-03-19T07:35:27.630Z"
+  },
+  "status": "Оформлен",
+  "__v": 0
+}]

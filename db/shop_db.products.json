@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "67825262adde06a22aa513a8"
+  },
+  "title": "Haval Jolion I ",
+  "price": 1100000,
+  "__v": 0,
+  "imageNane": "product-1.jpg"
+},
+{
+  "_id": {
+    "$oid": "678252d8adde06a22aa513aa"
+  },
+  "title": "Haval Jolion New",
+  "price": 1199000,
+  "__v": 0,
+  "imageNane": "product-2.jpg"
+},
+{
+  "_id": {
+    "$oid": "6782533aadde06a22aa513ac"
+  },
+  "title": "Lada Iskra",
+  "price": 749000,
+  "__v": 0,
+  "imageNane": "product-3.jpg"
+},
+{
+  "_id": {
+    "$oid": "67825396adde06a22aa513ae"
+  },
+  "title": "KAIYI X3 I ",
+  "price": 869000,
+  "__v": 0,
+  "imageNane": "product-4.jpg"
+},
+{
+  "_id": {
+    "$oid": "678253ddadde06a22aa513b0"
+  },
+  "title": "Lada Granta Sport",
+  "price": 899000,
+  "__v": 0,
+  "imageNane": "product-5.jpg"
+},
+{
+  "_id": {
+    "$oid": "6782541eadde06a22aa513b2"
+  },
+  "title": "Chevrolet Nexia I",
+  "price": 990000,
+  "__v": 0,
+  "imageNane": "product-6.jpg"
+},
+{
+  "_id": {
+    "$oid": "6782544cadde06a22aa513b4"
+  },
+  "title": "LIVAN X3Pro I",
+  "price": 1070000,
+  "__v": 0,
+  "imageNane": "product-7.jpg"
+},
+{
+  "_id": {
+    "$oid": "67828f191c6cd8282d28d520"
+  },
+  "title": "Jetta VA3 I ",
+  "price": 1081000,
+  "imageNane": "product-8.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6857977ed593c050433273c0"
+  },
+  "title": "New product",
+  "price": 890000,
+  "imageNane": "product-7.jpg",
+  "__v": 0
+}]
